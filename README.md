@@ -5,12 +5,15 @@ vim-operator-trailing-space
 Installation
 ===========
 
-TODO
+```vim
+NeoBundle "kana/vim-operator-user"
+NeoBundle "pocke/vim-operator-trailing-space"
+```
 
 Usage
 =======
 
-TODO
+![20160224124544](https://cloud.githubusercontent.com/assets/4361134/13348577/b1a4d94a-dcb7-11e5-87fb-54377b14636e.gif)
 
 Links
 =========
